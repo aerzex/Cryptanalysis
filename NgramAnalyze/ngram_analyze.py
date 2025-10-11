@@ -147,7 +147,7 @@ def main():
         if choice == '1':
             print_count_ngrams()
         elif choice == '2':
-            print_count_ngrams_frequency
+            print_count_ngrams_frequency()
         elif choice == '3':
             print_chi_square_distribution()
         elif choice == '4':
